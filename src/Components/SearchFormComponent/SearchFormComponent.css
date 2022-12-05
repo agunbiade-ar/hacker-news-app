@@ -1,0 +1,33 @@
+.button{
+    background: transparent;
+    border: 1px solid #171212;
+    padding: 5px;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+  }
+  
+  .button-large{
+    padding: 15px;
+    margin: 10px;
+    width: 20%;
+  }
+
+  .search-form{
+    padding: 10px 0 20px 0;
+    display: flex;
+    align-items: baseline;
+  }
+
+  .label{
+    border-top: 1px solid #171212;
+    border-left: 1px solid #171212;
+    padding-left: 5px;
+    font-size: 24px;
+  }
+
+  .input{
+    border: none;
+    border-bottom: 1px solid #171212;
+    background-color: transparent;
+    font-size: 24px;
+  }
